@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blockchain-Dapp/static/css/main.e9cdd8ad.chunk.css",
+    "main.js": "/Blockchain-Dapp/static/js/main.fa32f27d.chunk.js",
+    "main.js.map": "/Blockchain-Dapp/static/js/main.fa32f27d.chunk.js.map",
+    "runtime-main.js": "/Blockchain-Dapp/static/js/runtime-main.f092f17e.js",
+    "runtime-main.js.map": "/Blockchain-Dapp/static/js/runtime-main.f092f17e.js.map",
+    "static/js/2.58a75185.chunk.js": "/Blockchain-Dapp/static/js/2.58a75185.chunk.js",
+    "static/js/2.58a75185.chunk.js.map": "/Blockchain-Dapp/static/js/2.58a75185.chunk.js.map",
+    "index.html": "/Blockchain-Dapp/index.html",
+    "precache-manifest.82bd3aca6530b92a79b43bd5c0392997.js": "/Blockchain-Dapp/precache-manifest.82bd3aca6530b92a79b43bd5c0392997.js",
+    "service-worker.js": "/Blockchain-Dapp/service-worker.js",
+    "static/css/main.e9cdd8ad.chunk.css.map": "/Blockchain-Dapp/static/css/main.e9cdd8ad.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f092f17e.js",
+    "static/js/2.58a75185.chunk.js",
+    "static/css/main.e9cdd8ad.chunk.css",
+    "static/js/main.fa32f27d.chunk.js"
+  ]
+}
